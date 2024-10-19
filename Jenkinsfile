@@ -15,6 +15,7 @@ pipeline {
 		choice choices: ['1', '2', '3'], description: 'Testing', name: 'BUMP_TYPE'
 	}
   
+
 	
     stages {
 
